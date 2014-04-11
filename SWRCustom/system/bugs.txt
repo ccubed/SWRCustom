@@ -1,0 +1,316 @@
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: load_area: error loading file (can't open)
+[*****] BUG: MyPlanet
+[*****] BUG: load_area: error loading file (can't open)
+[*****] BUG: Sentinel
+[*****] BUG: load_area: error loading file (can't open)
+[*****] BUG: Lol
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: load_area: error loading file (can't open)
+[*****] BUG: MyPlanet
+[*****] BUG: load_area: error loading file (can't open)
+[*****] BUG: Sentinel
+[*****] BUG: load_area: error loading file (can't open)
+[*****] BUG: Lol
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: load_area: error loading file (can't open)
+[*****] BUG: MyPlanet
+[*****] BUG: load_area: error loading file (can't open)
+[*****] BUG: Sentinel
+[*****] BUG: load_area: error loading file (can't open)
+[*****] BUG: Lol
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: Cannot load clan file: free_alliance
+[*****] BUG: Fread_char: unknown skill.
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: load_area: error loading file (can't open)
+[*****] BUG: Alpha
+[*****] BUG: load_area: error loading file (can't open)
+[*****] BUG: Prime
+[*****] BUG: Cannot load clan file: free_alliance
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: Cannot load clan file: free_alliance
+[*****] BUG: Set_fighting: dealer -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Fatal: stop_editing: no desc
+[*****] BUG:  IMC: imc_read_config: $ not found
+[*****] BUG:  IMC: imc_read_config: No server connection information!!
+[*****] BUG:  IMC: Network configuration aborted.
+[*****] BUG:  IMC: imc_read_config: $ not found
+[*****] BUG:  IMC: imc_read_config: No server connection information!!
+[*****] BUG:  IMC: Network configuration aborted.
+[*****] BUG:  IMC: imc_read_config: $ not found
+[*****] BUG:  IMC: imc_read_config: No server connection information!!
+[*****] BUG:  IMC: Network configuration aborted.
+[*****] BUG:  IMC: imc_read_config: $ not found
+[*****] BUG:  IMC: imc_read_config: No server connection information!!
+[*****] BUG:  IMC: Network configuration aborted.
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: Fread_obj: bad vnum 101.
+[*****] BUG: Fread_obj: incomplete object.
+[*****] BUG: Fread_obj: bad vnum 101.
+[*****] BUG: Fread_obj: incomplete object.
+[*****] BUG:  IMC: imc_write_buffer: Configuration or socket is invalid!
+[*****] BUG:  IMC: imc_write_buffer: Configuration or socket is invalid!
+[*****] BUG:  IMC: imc_write_buffer: Configuration or socket is invalid!
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: Fread_obj: bad vnum 101.
+[*****] BUG: Fread_obj: incomplete object.
+[*****] BUG: Fread_obj: bad vnum 101.
+[*****] BUG: Fread_obj: incomplete object.
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: Fread_obj: bad vnum 101.
+[*****] BUG: Fread_obj: incomplete object.
+[*****] BUG: Fread_obj: bad vnum 101.
+[*****] BUG: Fread_obj: incomplete object.
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Equip_char: already equipped (7).
+[*****] BUG: Equip_char: already equipped (7).
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Equip_char: already equipped (7).
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Ifcheck syntax error, Object #102.
+[*****] BUG: Ifcheck syntax error, Object #102.
+[*****] BUG: Ifcheck syntax error, Object #102.
+[*****] BUG: Ifcheck syntax error, Object #102.
+[*****] BUG: Ifcheck syntax error, Object #102.
+[*****] BUG: Unknown ifcheck, Object #102.
+[*****] BUG: Missing endif, Object #102.
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: fread_word: EOF encountered on read.
+
+[   67] Kermorvan: autosac is on but not working
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Free_char: null ch!
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: Could not find symbol 'do_clone': swr: undefined symbol: do_clone
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Free_char: null ch!
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: Set_fighting: soldier guard -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[ 4025] Martel: wilderness rooms do not count as wilderness
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: Fread_char: unknown skill.
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: soldier guard -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: dealer -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Set_fighting: dealer -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: dealer -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: soldier guard -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Free_char: null ch!
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Free_char: null ch!
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: dealer -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: soldier guard -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: Set_fighting: citizen colonist -> alien invader (already fighting alien invader)
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: Fread_char: unknown skill.

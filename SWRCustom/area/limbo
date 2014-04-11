@@ -1,0 +1,312 @@
+#AREA   Limbo~
+
+
+
+#ROOMS
+#1
+The Void~
+You are floating in nothing.
+~
+0 12 1
+S
+#2
+Limbo~
+You float in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light which fades into the
+relative darkness around you without any trace of edge or shadow.
+~
+0 1036 1
+D4
+~
+~
+0 -1 20
+S
+#3
+Limbo Shipyard~
+A wet grey mist hangs over this large yard of old an unused vessels.
+Ships of all types and sizes rest here empty and abandoned...
+~
+0 4 1
+S
+#4
+Omnipresent Control Center~
+You are in the center of the Omnipresent Being's domain.  From this complex
+the all knowing, all powerful beings that control this galaxy do their
+work. There is a computer terminal in the center of the room used to
+monitor happenings of the rest of the Galaxy.
+~
+0 12 1
+D1
+~
+~
+0 -1 1023
+S
+#5
+&RA&Ycademy &CS&Bhipyard~
+&YNow it is time for you to set off and begin your adventure! Your ship is
+ready for you when your ready to leave. &RLearn to fly your ship before
+leaving&Y To open the ship : &R{Open shipname)&Y to enter the ship you
+&R{Enter Shipname}&Y Good Luck! &w
+~
+0 8405008 1
+D2
+~
+~
+0 -1 9
+S
+#6
+&RT&Yerra &RP&Yrime &RA&Ycademy&w~
+&c The walls are a soothing beige color flowing up into a series of arch's
+that make up the arctitecture of this particular learning institute.
+Pillars sunk into the walls protrude outward giving the sense that these
+walls shall never waiver or fall&w  the intricate etchings making it look
+lavish with the wisdom of those who made it. The entry way into the next
+part of the academy has been left open leaving a wide open threshold to
+walk across in order to access the other parts of the academy, portrait
+&cs of students past hanging here in the main threshold.  &cs of students
+past hanging here in the main threshold.&w 
+~
+0 8 0
+D0
+~
+~
+0 -1 9
+D2
+~
+~
+0 -1 10
+S
+#7
+&RA&Ycademy &RF&Oood &RC&Oourt&w~
+&CHere the same design flows through this part of the academy as the main
+threshold allowing for relaxed eating in a supportive learning enviroment.
+Here there are tables dotting the area allowing for ample places to sit
+down and enjoy a meal on campus. The differen't food items are put on
+display here like a cafeteria allowing the patrons to pick and choose what
+they want before returning to the table. 
+~
+0 8 0
+D3
+~
+~
+0 -1 9
+S
+#8
+&RA&Ycademy &RS&Yupply &RS&Ytore~
+&GThis room consists of shelves and shelves of stock, the items resting on
+the shelves here ranged from weapons to mining items. This place looks to
+be just as intricately designed as the rest of the academy cept for the
+color of the walls&w  &Care a far more dark red color almost burgandy the
+color of conflict and distrust. A pleasant mural was painted on the
+ceiling of this established store depicting two gentlemen making peace on
+a battlefield.&w 
+~
+0 8 0
+D1
+~
+~
+0 -1 9
+S
+#9
+&RT&Yerra &RP&Yrime &RA&Ycademy&w~
+&cThe walls are a soothing beige color flowing up into a series of arch's
+that make up the archetecture of this particular learning institute.
+Pillars sunk into the walls protrude outward giving the sense that these
+walls shall never waiver or fall.  &cthe intricate etchings making it look
+lavish with the wisdom of those who made it.&w 
+&G1234&w 
+~
+0 8 0
+D0
+~
+~
+0 -1 5
+D1
+~
+~
+0 -1 7
+D2
+~
+~
+0 -1 6
+D3
+~
+~
+0 -1 8
+D6
+~
+~
+3 -1 3958
+D7
+~
+~
+7 1234 3959
+D8
+~
+~
+0 -1 3960
+D9
+~
+~
+0 -1 3961
+S
+#10
+&C[&GP&zla&Cn&Ge&zts &r: &RRi&cs&Re &Gt&zo &RP&cowe&Yr&C]&w~
+&YWelcome to &C[&GP&zlan&Ge&zts &r: &RRi&cs&Re &Gt&Co &RP&cowe&Yr&C]&Y,
+This is the starting room that all players start off in. If you would like
+to &Rchat&Y use the &Rooc&Y command. &CFeel free to ask questions!&Y If
+you decide that this game just&w   &Y isn't your thing thats fine! We
+respect your needs as a player, just use the &RSuicide&Y command a long
+with your password it will be &C[&R suicide {password}&C]&Y If you want to
+begin your adventure you can pass right through the newbie school and   &Y
+jump right into the game! There is a supply shop here at the station and
+&Cyour very own ship at the shipyard!&w 
+~
+0 8 1
+D0
+~
+~
+0 -1 6
+D10
+~
+~
+133120 -1 6
+S
+#11
+Hey Get OUT of HERE~
+~
+0 68 0
+S
+#12
+a hallway~
+THIS ROOM IS NOT USED!!THIS ROOM IS NOT USED!!THIS ROOM IS NOT USED!!THIS
+ROOM IS NOT USED!!THIS ROOM IS NOT USED!!THIS ROOM IS NOT USED!!THIS ROOM
+IS NOT USED!!THIS ROOM IS NOT USED!!THIS ROOM IS NOT USED!!THIS ROOM IS
+NOT USED!!THIS ROOM IS NOT USED!!T
+~
+0 131084 0
+S
+#13
+Floating in a void~
+~
+0 4 1
+S
+#14
+Floating in a void~
+~
+0 4 1
+S
+#15
+Floating in a void~
+~
+0 4 1
+S
+#16
+Floating in a void~
+~
+0 4 1
+S
+#17
+Floating in a void~
+~
+0 4 1
+S
+#18
+Floating in a void~
+~
+0 4 1
+S
+#19
+Floating in a void~
+~
+0 4 1
+S
+#20
+Galactic Crossroads~
+The time has come for you to make a fresh start.  
+It is time to choose a planet from which to start your adventure.  
+The path before you is open. Your fate is now in your own hands. 
+All that is left for you to do is to type the name of your destination... 
+~
+0 12 1
+S
+#1023
+Quiet Room....~
+~
+0 8 0
+D3
+~
+~
+0 -1 4
+S
+#3958
+&RC&rlass&Yr&room &C: &GBuilding and Designing&w~
+&YC&Rommands &Yt&Ro &YK&Rnow &C:&w
+&YB&Rridge &C: &R Connects rooms on a planet [skill]&w
+&YL&Randscape &C: &R Used to alter the Appearance of a planet [skill]&w
+&YC&Ronstruct &C: &R This is used to build new areas on a planet [skill]&w
+&YS&Rurvey &C: &R This is used to gain information on a specific room or
+area of a planet [skill]&w
+&YS&Rhowplanet &C: &R This is used to see the stats on specific planets
+&Ysyntax&r: &Y showplanet Terra Prime &w
+&C' &RHelp Taxes&C'&w  
+  
+&cBuilding Rules&w 
+  
+&C1. &GDon't copy another persons planet layout, Don't use anything from
+any game series or television show. It has to follow the flow of the game,
+which means no gummy land or Final Fantasy land.&w
+&C 2.&G If your not sure about building something somewhere than don't
+build it, ask your clan leader or any Immortal.&w 
+&C 3.&G If an immortal has to destroy something you built, you will be
+given one warning. After that you will have your building privilages
+removed.&w 
+~
+0 8 0
+D9
+~
+~
+3 -1 9
+S
+#3959
+&RC&rlass&Rr&room&w~
+This is an empty classroom used to help students &Rpicklocks&w or even
+&Rpickshiplocks&w in a spaceship's case. 
+~
+0 8 0
+D8
+~
+~
+3 -1 9
+S
+#3960
+&GC&cloning&w~
+&WThis is a very neatly kept room with several tubes lining the walls
+containing replica's of previous people floating in a clear green liquid.
+&w 
+~
+0 1536 0
+D7
+~
+~
+0 -1 9
+S
+#3961
+&RC&rlass&Rr&room &C: &R Perma-Death&w~
+On certain MUDs you can die with no limits to dieing and go on forever, but
+on MUDs like Planets : Rise to Power, you only have one life and if you
+die it's time to make an alternate character.     This is where Cloning
+comes in handy, you pay a credit fee and get a free copy of yourself so
+that if you burn up in a space shuttle or something along the lines of
+dying you have another character. 
+~
+0 8 0
+D6
+~
+~
+0 -1 9
+S
+#0
+
+
+#$

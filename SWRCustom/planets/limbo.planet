@@ -1,0 +1,14 @@
+#PLANET
+Name         Terra Prime~
+Filename     limbo.planet~
+X            10000
+Y            10000
+Z            10000
+Sector       0
+PopSupport   96
+Starsystem   Terra Prime~
+GovernedBy   Oniani Cartel~
+Area         limbo~
+End
+
+#END

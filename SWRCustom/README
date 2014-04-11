@@ -1,0 +1,28 @@
+SWR2 Refactor revision 294
+--------------------------
+
+Before using this program please read all the license files in the 
+~/swr-2.0/doc/ directory. Running this program implies understanding
+and acceptance of any terms outlined therin.
+
+To run the mud change to your home directory and run the 
+startup script by typing:
+
+./run-swr &
+
+To connect to the mud telnet to port 9999. To change the default port you
+can either run the startup script using the desired port number as a 
+command line argument or edit the script.
+
+To give your character all the commands first save and quit. Then locate your 
+player file in the ~/swr-2.0/player/ directories. Edit the line that says 
+Toplevel changing the number from 1 to 200. Then log back on. Type "holylight"
+and "config +roomflags" for full immortal vision.
+
+Oh yeah,
+This code is unfinished and buggy...
+
+Enjoy
+
+For bug reports, new releases and general discussion visit
+http://swr2.totj.net/
