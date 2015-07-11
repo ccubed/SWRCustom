@@ -1,17 +1,77 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="Source Files">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
-    <Filter Include="Header Files">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
-    </Filter>
-    <Filter Include="Resource Files">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
+    <None Include="README" />
+    <None Include="run-swr" />
+    <None Include="swr" />
+    <None Include="valgrind" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\act_comm.c" />
+    <ClCompile Include="src\act_info.c" />
+    <ClCompile Include="src\act_move.c" />
+    <ClCompile Include="src\act_obj.c" />
+    <ClCompile Include="src\act_wiz.c" />
+    <ClCompile Include="src\boards.c" />
+    <ClCompile Include="src\build.c" />
+    <ClCompile Include="src\clans.c" />
+    <ClCompile Include="src\colony.c" />
+    <ClCompile Include="src\comm.c" />
+    <ClCompile Include="src\const.c" />
+    <ClCompile Include="src\copyover.c" />
+    <ClCompile Include="src\db.c" />
+    <ClCompile Include="src\fight.c" />
+    <ClCompile Include="src\handler.c" />
+    <ClCompile Include="src\imc.c" />
+    <ClCompile Include="src\interp.c" />
+    <ClCompile Include="src\magic.c" />
+    <ClCompile Include="src\makeobjs.c" />
+    <ClCompile Include="src\misc.c" />
+    <ClCompile Include="src\morespace.c" />
+    <ClCompile Include="src\mud_comm.c" />
+    <ClCompile Include="src\mud_prog.c" />
+    <ClCompile Include="src\nanny.c" />
+    <ClCompile Include="src\planets.c" />
+    <ClCompile Include="src\player.c" />
+    <ClCompile Include="src\reset.c" />
+    <ClCompile Include="src\save.c" />
+    <ClCompile Include="src\shops.c" />
+    <ClCompile Include="src\skillpackage.c" />
+    <ClCompile Include="src\skills.c" />
+    <ClCompile Include="src\space.c" />
+    <ClCompile Include="src\special.c" />
+    <ClCompile Include="src\swskills.c" />
+    <ClCompile Include="src\tables.c" />
+    <ClCompile Include="src\telopt.c" />
+    <ClCompile Include="src\track.c" />
+    <ClCompile Include="src\update.c" />
+    <ClCompile Include="src\vector3_aux.c" />
+    <ClCompile Include="src\vote.c" />
+    <ClCompile Include="src\swr_support\bet.c" />
+    <ClCompile Include="src\swr_support\buffer.c" />
+    <ClCompile Include="src\swr_support\file_io.c" />
+    <ClCompile Include="src\swr_support\hashstr.c" />
+    <ClCompile Include="src\swr_support\misc.c" />
+    <ClCompile Include="src\swr_support\os_amiga.c" />
+    <ClCompile Include="src\swr_support\os_unix.c" />
+    <ClCompile Include="src\swr_support\os_win32.c" />
+    <ClCompile Include="src\swr_support\sha256.c" />
+    <ClCompile Include="src\swr_support\string_handling.c" />
+    <ClCompile Include="src\swr_support\time_fun.c" />
+    <ClCompile Include="src\swr_support\vector3.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\imc.h" />
+    <ClInclude Include="src\mud.h" />
+    <ClInclude Include="src\telnet.h" />
+    <ClInclude Include="src\vector3_aux.h" />
+    <ClInclude Include="src\swr_support\buffer.h" />
+    <ClInclude Include="src\swr_support\os.h" />
+    <ClInclude Include="src\swr_support\os_amiga.h" />
+    <ClInclude Include="src\swr_support\os_unix.h" />
+    <ClInclude Include="src\swr_support\os_win32.h" />
+    <ClInclude Include="src\swr_support\sha256.h" />
+    <ClInclude Include="src\swr_support\swr_support.h" />
+    <ClInclude Include="src\swr_support\vector3.h" />
   </ItemGroup>
 </Project>
